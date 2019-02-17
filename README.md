@@ -2,16 +2,21 @@
 
 ### ch1
 **test1**: To determine prime numbers.
+
 **test2**: To calculate the sum of the Oscillate Series.
 
 ### ch2
 **t7**: Implement assignment , merging and traversal of sequential lists.
+
 **t10**: Polynomial addition based on linked list.
+
 **t11**: Big interger class based on linked list.
 
 ### ch3
 **t3**: A function that convert infix expressions into postfix expressions.
+
 **t4**: A function that calculate postfix expressions.
+
 **t5***: Pascal statement pairing detection.
 
 ### ch4
@@ -19,8 +24,11 @@
 
 ### ch5
 **t3**: Implement hierarchical traversal of binary tree.
+
 **t4**: To determine whether the binary tree is a complete binary tree.
+
 **t6**: To determine whether the two binary trees are mirror images of each other.
+
 **t8**: Re-implement a tree class and its pre-order, post-order and hierarchical traversal, which is stored in the son and brother list.
 
 ### ch7
@@ -28,8 +36,11 @@
 
 ### ch8
 **t2**: Add three methods into BinarySearchTree. Their functions are as follows: 
+
     1. remove all elements that are less than a specified value (excluding boundaries). 
+
     2. remove all elements that are larger than a specified value (excluding boundaries). 
+
     3. remove all elements in a specified range (including boundaries).
 
 **t3**: Implement the 'insert', 'remove' and 'find' functions of BinarySearchTree non-recursively.
