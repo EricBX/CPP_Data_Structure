@@ -1,0 +1,14 @@
+program name;
+var
+	a:integer;
+begin
+	readln(a);
+	if (a>10)
+	then begin
+                    a:=a+10;
+	end
+	else begin
+                   a:=a-10;
+	end;
+	readln;
+end.
